@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- -> app/src/main/res/drawable/ic_launcher_foreground.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- dis halka -->
+    <path
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="4"
+        android:fillColor="#00000000"
+        android:pathData="M54,28 m-22,0 a22,22 0 1,0 44,0 a22,22 0 1,0 -44,0" />
+
+    <!-- ic dolu daire (dokunma noktasi) -->
+    <path
+        android:fillColor="#FF7A00"
+        android:pathData="M54,28 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0" />
+
+    <!-- asagi dogru dokunma isareti -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M50,58 h8 v14 h9 l-13,14 l-13,-14 h9 z" />
+</vector>
